@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **becoming an AI Engineer**
 
-- 🌱 I’m currently learning **NLP, ML, DevOps**
+- 🌱 I’m currently learning **NLP, Devops, Java**
 
 - 📫 How to reach me: **nguyenphamminhquan200404@gmail.com**
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/nguyenphamminhquan200404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyenphamminhquan200404" height="30" width="40" /></a>
 <a href="https://fb.com/nguyenphamminhquan200404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyenphamminhquan200404" height="30" width="40" /></a>
 <a href="https://instagram.com/qn200404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qn200404" height="30" width="40" /></a>
 </p>

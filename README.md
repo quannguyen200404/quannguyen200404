@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **NLP, ML, DevOps**
 
-- 📫 How to reach me **nguyenphamminhquan200404@gmail.com**
+- 📫 How to reach me: **nguyenphamminhquan200404@gmail.com**
 
-- ⚡ Fun fact **I like listening to music and playing fighting games**
+- ⚡ Fun fact: **I like listening to music and playing fighting games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

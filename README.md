@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **becoming an AI Engineer**
 
-- 🌱 I’m currently learning **NLP, Devops, Java**
+- 🌱 I’m currently learning **NLP, DevOps, Java**
 
 - 📫 How to reach me: **nguyenphamminhquan200404@gmail.com**
 
